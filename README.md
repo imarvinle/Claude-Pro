@@ -1,4 +1,4 @@
-# 2026最新Claude Pro 订阅充值教程：Claude账号怎么注册？如何订购Claude Pro会员？怎样购买独立的Claude Pro账号？现有Claude账户如何充值 Pro？（附Claude Code国内使用指南）
+# 2026最新Claude Pro 订阅和充值教程：Claude账号怎么注册？如何订购Claude Pro会员？怎样购买独立的Claude Pro账号？现有Claude账户如何充值 Pro？（附Claude Code国内使用指南）
 
 <p align="center">最近更新时间：2026年1月25日</p>
 
@@ -8,7 +8,7 @@
 
 
 
-用了快两年的 Claude Pro，说实话，在写代码这块儿 Claude Pro（Claude Code）确实是我的心头好。
+用了快两年半的 Claude Pro，说实话，在写代码这块儿 Claude Pro（Claude Code）确实是我的心头好。
 
 但是封号也是真的狗，Claude Pro 和 Claude Max 的号都给我干没好几个了。
 
