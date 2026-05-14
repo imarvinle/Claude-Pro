@@ -263,6 +263,7 @@ upclaude 官方提供了两种 Claude Pro 充值模式：**169 元的 Claude Pro
 如果你在 Claude、ChatGPT、Grok 之间还没想清楚，也可以继续看这两篇：
 
 * [ChatGPT Plus 充值教程](https://github.com/imarvinle/ChatGPT-Plus)：适合想找一个更通用、更均衡主力 AI 的用户。
+* [ChatGPT Plus 开通完整教程（方法对比 + 报错排查）](https://github.com/imarvinle/chatgpt-plus-tutorial)：4 种主流开通方式横向对比，附 10 个国内自己充值时最常见的报错排查清单，避坑必看。
 * [SuperGrok 订阅教程](https://github.com/imarvinle/SuperGrok)：适合更看重实时信息、DeepSearch 和热点追踪能力的用户。
 
 如果你是开发者，我的建议一般是这样的：
